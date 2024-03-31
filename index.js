@@ -1,1 +1,3 @@
-console.log("hello world!!")
+import { print } from './utilities'
+
+print("hello world!!")
