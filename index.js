@@ -1,3 +1,3 @@
-import { print } from './utilities'
+import { print } from './utilities.js'
 
-print("hello world!!")
+print("hello world!")
